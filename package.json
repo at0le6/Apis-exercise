@@ -1,0 +1,19 @@
+{
+  "name": "02_exercisesapis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Ejem1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "node-fetch": "^3.0.0"
+  }
+}
